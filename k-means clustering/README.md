@@ -10,13 +10,13 @@ Segment and group the pixels of a given image according to their RGB values with
 4. matplotlib
 
 ## Pseudocode:
-Import image
-Convert to RGB
-Run k-means from sklearn
-Convert back to 8 bit values
-Flatten the labels array
-Convert all pixels to the color of the centroids
-Reshape back to the original image dimension
+1. Import image
+2. Convert to RGB
+3. Run k-means from sklearn
+4. Convert back to 8 bit values
+5. Flatten the labels array
+6. Convert all pixels to the color of the centroids
+7. Reshape back to the original image dimension
 
 ![k-means3](https://github.com/OlhaMaslova/AI_assignments/blob/master/k-means%20clustering/kmeans-3.png)
 
