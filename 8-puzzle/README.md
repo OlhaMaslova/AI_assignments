@@ -25,7 +25,7 @@ Argument Example: {0,8,7,6,5,4,3,2,1}
 7. max_ram_usage: 279.339008
 
 
-![Image of terminal](link here)
+![Image of terminal](https://github.com/OlhaMaslova/AI_assignments/blob/master/8-puzzle/terminal.png)
 
 ## Implementation Details
 Implemented custom data structures combining benefits of a hashmap and:
