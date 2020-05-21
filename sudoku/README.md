@@ -1,4 +1,4 @@
-# Suoku
+# Sudoku
 
 # Goal:
 The objective of Sudoku is to fill a 9x9 grid with the numbers 1-9 so that each column, row, and 3x3 sub-grid (or box) contains one of each digit.
