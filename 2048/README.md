@@ -24,5 +24,5 @@ Player AI is allowed 0.2 seconds to come up with each move.
 2. Alpha-beta pruning
 3. Heuristic function with heuristic weights
 
-
+You can watch a sample run of the game [here](https://youtu.be/VtTWri1ax9w)
 
