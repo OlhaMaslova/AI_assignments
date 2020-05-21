@@ -11,6 +11,7 @@ Create an adversarial search agent to play the 2048-puzzle game.
 • Read-only: Grid.py This module defines the Grid object, along with some useful operations: move(), getAvailableCells(), insertTile(), and clone(), which you may use in your code.
 
 • Read-only: BaseAI.py This is the base class for any AI component. All AIs inherit from this module, and implement the getMove() function, which takes a Grid object as parameter and returns a move (there are different ”moves” for different AIs).
+
 • Read-only: ComputerAI.py. This inherits from BaseAI. The getMove() function returns a computer action that is a tuple (x, y) indicating the place you want to place a tile.
 
 • **Writable**: IntelligentAgent.py. File that needs to be created. The IntelligentAgent class should inherit from BaseAI. The getMove() function to implement must return a number that indicates the player’s action. In particular, 0 stands for ”Up”, 1 stands for ”Down”, 2 stands for ”Left”, and 3 stands for ”Right”. This is where the player-optimizing logic lives and is executed.
