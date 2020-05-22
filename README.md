@@ -1,5 +1,5 @@
 # AI_assignments
-This repository contains descriptions of assignments that I completed for the AI course at Columbia University in Spring 2020. 
+This repository contains descriptions of assignments that I completed as a part of an AI course at Columbia University in Spring 2020. 
 
 If you are unfamiliar with a game, please see the links attached.
 Please note, this repository does not contain any code due to academic integrity policy. I can only share the assignment and the result that I got.
